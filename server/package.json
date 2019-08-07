@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.3.8",
     "nodemailer": "^4.7.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.193.1"
   },
   "snyk": true
 }
