@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.5.5",
-    "bcrypt": "*",
+    "bcrypt": "6.0.0",
     "body-parser": "^1.19.1",
     "cors": "^2.8.4",
     "dotenv": "^6.1.0",
